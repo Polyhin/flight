@@ -1,0 +1,8 @@
+C:\Users\Татьяна.000\source\repos\panel\obj\Debug\readypanel.csproj.AssemblyReference.cache
+C:\Users\Татьяна.000\source\repos\panel\obj\Debug\readypanel.csproj.CoreCompileInputs.cache
+C:\Users\Татьяна.000\source\repos\panel\bin\Debug\panel.exe.config
+C:\Users\Татьяна.000\source\repos\panel\bin\Debug\panel.exe
+C:\Users\Татьяна.000\source\repos\panel\bin\Debug\panel.pdb
+C:\Users\Татьяна.000\source\repos\panel\obj\Debug\panel.g.resources
+C:\Users\Татьяна.000\source\repos\panel\obj\Debug\panel.exe
+C:\Users\Татьяна.000\source\repos\panel\obj\Debug\panel.pdb
